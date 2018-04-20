@@ -1,0 +1,4 @@
+scheduled_tasks
+计划任务
+1，在计划任务的方法上注解@Scheduled
+2，在mian方法的类上注解@Enableschebuling
